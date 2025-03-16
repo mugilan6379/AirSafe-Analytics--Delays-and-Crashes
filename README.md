@@ -1,1 +1,15 @@
 # AirSafe-Analytics--Delays-and-Crashes
+✈️ AirSafe Analytics – Delays & Crashes
+🚀 Explore aviation safety like never before!
+This interactive Streamlit dashboard provides insights into flight delays, crashes, and airline performance, helping users analyze trends and improve decision-making.
+
+🔹 Features
+✅ Live data visualizations – Explore trends in aviation safety
+✅ Interactive world maps – View crash locations & patterns
+✅ Airline performance analysis – Compare delays & safety records
+✅ Time-based insights – Identify trends in flight disruptions
+
+💡 Built with: Streamlit, Plotly, Seaborn, Pandas, Matplotlib
+
+📌 Live App Link: 👉 Visit AirSafe Analytics
+📌 GitHub Repository: 👉 View on GitHub
