@@ -11,5 +11,4 @@ This interactive Streamlit dashboard provides insights into flight delays, crash
 
 💡 Built with: Streamlit, Plotly, Seaborn, Pandas, Matplotlib
 
-📌 Live App Link: 👉 Visit AirSafe Analytics
-📌 GitHub Repository: 👉 View on GitHub
+📌 Live App Link: 👉 [Visit AirSafe Analytics](https://airsafe-analytics--delays-and-crashes-qc9stcpmy2jgkmbgggtjm8.streamlit.app/)
