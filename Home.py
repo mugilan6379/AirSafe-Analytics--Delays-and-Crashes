@@ -86,5 +86,5 @@ st.markdown("""
 # GitHub Link
 st.markdown("""
 ### 🔗 Project GitHub Repository  
-Click [here](https://github.com/your-repo-link) to view the code and contribute!
+Click [here](https://github.com/mugilan6379/AirSafe-Analytics--Delays-and-Crashes) to view the code and contribute!
 """)
